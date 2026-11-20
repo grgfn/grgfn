@@ -2,5 +2,4 @@
 
 Informatico specializzato in **Artificial Intelligence**.  
 
-**Linguaggi & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Qui troverete alcuni progetti interessanti fatti nel corso di questi anni, stay tuneddd
